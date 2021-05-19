@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Rock Paper Scissors", "Rock Paper Scissors\Rock Paper Scissors.pyproj", "{B4383AFF-A5CE-4DB4-9AEA-F887BE61FF96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4383AFF-A5CE-4DB4-9AEA-F887BE61FF96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4383AFF-A5CE-4DB4-9AEA-F887BE61FF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {069CE388-1665-4F3C-AFAF-1C605F6CED40}
+	EndGlobalSection
+EndGlobal
